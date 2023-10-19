@@ -7,14 +7,12 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "dev": "nodemon",
     "pub": "ts-node publisher",
     "sub": "ts-node subscriber"
   },
   "devDependencies": {
     "@types/prompt": "^1.1.7",
     "@types/prompt-sync": "^4.2.1",
-    "nodemon": "^3.0.1",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
   },
